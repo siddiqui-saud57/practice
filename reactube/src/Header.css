@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  background-color: black;
+  height: 90px;
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+  box-shadow: 2px 1px 3px -9px rgba(0, 1, 0, 0.3);
+}
+.logo > img {
+  object-fit: contain;
+  height: 80px;
+}
+h1 {
+  color: white;
+  padding-right: 30px;
+}

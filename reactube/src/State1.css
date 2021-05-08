@@ -1,0 +1,28 @@
+.state1 {
+  border: 1px solid black;
+  background-color: aquamarine;
+  padding-top: 25vh;
+  padding-bottom: 120px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.states {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+}
+.number {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  padding-top: 75px;
+}
+.state1 > Button {
+  background-color: #f749;
+  border: 1px solid pink;
+}
